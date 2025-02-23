@@ -34,7 +34,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: jiating Home
     link: /
   - title: 家庭项目 Research
     link: /研究.html
